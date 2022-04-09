@@ -1,10 +1,11 @@
 # Anti-roblox-package-script-for-games
+
 This script bans all packages, I recommend using R6 for the game in game avatar settings. (this is also a basic script!)
 
 
-------------------------------------------------------
-
-while true do
+ ------------------------------------------------------
+ 
+ while true do
 wait()
 c=game.Workspace:getChildren()
 for i = 1, #c do
@@ -17,4 +18,4 @@ end
 end
 end
 
-------------------------------------------------------
+ ------------------------------------------------------
